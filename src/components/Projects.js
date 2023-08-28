@@ -17,13 +17,13 @@ export const Projects = () => {
       title: "2D RPG",
       description: "Mini 2D top down RPG  ",
       imgUrl: projImg3,
-      demoUrl: "https://github.com/gunnaratchley",
+      demoUrl: "https://simmer.io/@gunnaratchley/2d-rpg-top-down-demo",
     },
     {
       title: "Admin Dashboard with Sales Data",
       description: "Full Stack Web Design   ",
       imgUrl: projImg2,
-      demoUrl: "https://github.com",
+      demoUrl: "https://github.com/Gunnaratchley/Admin-Dashboard",
     },
     {
       title: "AI Search Algorithms",
@@ -38,7 +38,7 @@ export const Projects = () => {
       title: "Tubetacular",
       description: "A simple Mario Clone    ",
       imgUrl: projImg4,
-      demoUrl: "https://www.linkedin.com/in/gunnar-atchley-a16433123"
+      demoUrl: "https://github.com/Gunnaratchley/Java-Mario-Clone"
     },
     {
       title: "Quiz Game",
